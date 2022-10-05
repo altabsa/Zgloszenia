@@ -1,2 +1,2 @@
-# XDTW-Edytor-Inf
-Wsyztko o edytorze dla mechanizmu XDTW
+# Zgłoszenia
+Zgłszanie zmian i poprawek do addon'ów
